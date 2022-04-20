@@ -27,6 +27,8 @@ collation-server=utf8mb4_general_ci
 max_allowed_packet=16M
 ```
 
+# C:\xampp\mysql\bin で cmd を実行( カレントで処理 )
+
 ## ログイン
 ```
 mysql -h localhost -u root --password=
@@ -39,6 +41,7 @@ exit
 ```
 
 ## インポート
+### lightbox.sql をダウンロード
 ```
 mysql -h localhost -u root -D lightbox --password= < lightbox.sql
 ```
