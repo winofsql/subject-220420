@@ -1,5 +1,11 @@
 # subject-220420
 
+## Apache の設定ファイルの構文チェック
+```
+httpd -t
+```
+
+
 ## MySQL の設定
 ### C:\xampp\mysql\bin\my.ini
 
