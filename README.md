@@ -20,3 +20,19 @@ collation-server=utf8mb4_general_ci
 [mysqldump]
 max_allowed_packet=16M
 ```
+
+## ログイン
+```
+mysql -h localhost -u root --password=
+```
+
+## データベース作成
+```sql
+create database lightbox;
+exit
+```
+
+## インポート
+```
+mysql -h localhost -u root -D lightbox --password= < lightbox.sql
+```
