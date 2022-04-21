@@ -58,6 +58,11 @@ mysql -h localhost -u root -D lightbox --password= < lightbox.sql
 
 ## ODBC ドライバ( MySQL 用 32ビット )のインストール
 
+![image](https://user-images.githubusercontent.com/1501327/164349950-7b868130-5045-4f47-9179-d297cfaa96ee.png)
+
+![image](https://user-images.githubusercontent.com/1501327/164349987-24ea469d-bd25-456a-906e-44ff1510f479.png)
+
+
 
 ## SQL の窓のインストールと MySQL で動作確認
 
