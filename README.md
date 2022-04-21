@@ -52,6 +52,9 @@ mysql -h localhost -u root -D lightbox --password= < lightbox.sql
 
 ## さくらエディタのインストール
 
+![image](https://user-images.githubusercontent.com/1501327/164349789-0c0bc1c2-4b3d-4d81-8270-065ab5d754ce.png)
+
+
 
 ## ODBC ドライバ( MySQL 用 32ビット )のインストール
 
