@@ -49,3 +49,14 @@ mysql -h localhost -u root -D lightbox --password= < lightbox.sql
 ## VSCode MySQL ツール
 ![image](https://user-images.githubusercontent.com/1501327/164140853-2bd4ab93-14c1-40ed-ae74-f90983125fd7.png)
 
+
+## さくらエディタのインストール
+
+
+## ODBC ドライバ( MySQL 用 32ビット )のインストール
+
+
+## SQL の窓のインストールと MySQL で動作確認
+
+
+
