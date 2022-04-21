@@ -66,5 +66,6 @@ mysql -h localhost -u root -D lightbox --password= < lightbox.sql
 
 ## SQL の窓のインストールと MySQL で動作確認
 
+![image](https://user-images.githubusercontent.com/1501327/164350059-237e1337-3614-489a-be57-d663ebd3c131.png)
 
 
