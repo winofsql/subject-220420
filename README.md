@@ -68,4 +68,5 @@ mysql -h localhost -u root -D lightbox --password= < lightbox.sql
 
 ![image](https://user-images.githubusercontent.com/1501327/164350059-237e1337-3614-489a-be57-d663ebd3c131.png)
 
+![image](https://user-images.githubusercontent.com/1501327/164350117-dbc7afaa-d970-4b69-a3a0-926b1762fe98.png)
 
