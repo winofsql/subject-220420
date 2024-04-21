@@ -10,6 +10,7 @@ httpd -t
 ### C:\xampp\mysql\bin\my.ini
 
 ![image](https://user-images.githubusercontent.com/1501327/156976420-7b22dfbb-96e9-4d79-ad49-b5e7dba1845e.png)
+
 22/04/20
 ```
 ## UTF 8 Settings
